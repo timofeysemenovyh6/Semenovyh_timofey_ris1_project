@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/assets">
+        <file alias="landing-bg.png">../static/landing-bg.png</file>
+        <file alias="logo.png">../static/logo.png</file>
+    </qresource>
+</RCC>
